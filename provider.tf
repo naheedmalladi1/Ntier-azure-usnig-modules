@@ -9,5 +9,8 @@ terraform {
 
 provider "azurerm" {
   
+  features {
+    
+  }
   
 }
