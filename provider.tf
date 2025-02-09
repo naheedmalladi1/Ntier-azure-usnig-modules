@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "azurerm" {
-    subscription_id = "a8541f81-a2c8-4ce2-afc8-f02f6f9954b6"
+    subscription_id = "  paste you azure acount subsc_id #"
     features {
       
     }
